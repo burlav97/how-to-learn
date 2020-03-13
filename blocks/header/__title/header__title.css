@@ -1,0 +1,12 @@
+.header__title {    
+    align-self: center;
+    margin-left: 64px;
+    width: 730px;
+    line-height: 96px;
+    font-size: 102px;
+    color: #000;
+    font-weight: bold;   
+    /* при малых рарешениях уходил на задний фон, добавила z-index*/ 
+    position: relative;
+    z-index: 2;
+}  
