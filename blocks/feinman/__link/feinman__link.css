@@ -5,6 +5,7 @@
     line-height: 51px;
     font-size: 36px;
     color: #000;
+    text-decoration: none;
 }
 .feinman__link:hover {
     opacity: 0.8;
